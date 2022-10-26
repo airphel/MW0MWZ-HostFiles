@@ -4,7 +4,7 @@ I mirror the official Pi-Star and other canonical hostfiles, etc. here, as to pr
 
 These hostfiles are checked for changes, and if there are changes, updated once per hour at random minutes of each hour.
 
-In the DMRIds.dat file, you will find the list of Ham Radio and Amateurs Radio callsigns.
+In the DMRIds.dat file, you will find the list of HamRadio and French Amateurs Radio callsigns.
 
-In the DMR_Hosts.txt file, you will find the list of Ham Radio + Amateurs Radio servers with the
+In the DMR_Hosts.txt file, you will find the list of HamRadio + French Amateurs Radio servers with the
 setup for connection.
